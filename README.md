@@ -9,9 +9,13 @@
 ![image-20230922133818649](C:\Users\Amanda\AppData\Roaming\Typora\typora-user-images\image-20230922133818649.png)
 
 `Etapa 1:` Extração dos dados web no Twitter utilizando técnica de WebScraping executada na ferramenta Jupyter Notebook em computador On-Premises.
+
 `Etapa 2:` Ingestão dos dados brutos com origem On-Premises para destino em Cloud utilizando Azure Data Factory.
+
 `Etapa 3:` Armazenamento do arquivo bruto na ferramenta de Data Lake Azure Data Lake Storage e transformação do arquivo utilizando Python.
+
 `Etapa 4:` Processamento in cloud do arquivo bruto limpando os dados e transformando utilizando o recurso Azure Databricks com processamento em cluster.
+
 `Etapa 5:` Visualização do resultado da etapa anterior com Microsoft Power BI.
 
 
