@@ -6,7 +6,7 @@
 
 ### Arquitetura
 
-![Arquitetura](https://imgur.com/IpUuqfl)
+![Arquitetura](https://i.imgur.com/IpUuqfl.png)
 
 `Etapa 1:` Extração dos dados web no Twitter utilizando técnica de WebScraping executada na ferramenta Jupyter Notebook em computador On-Premises.
 
