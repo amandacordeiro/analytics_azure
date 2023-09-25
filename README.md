@@ -6,7 +6,7 @@
 
 ### Arquitetura
 
-![image-20230922133818649](C:\Users\Amanda\AppData\Roaming\Typora\typora-user-images\image-20230922133818649.png)
+![Arquitetura](https://prnt.sc/9jeD6vnAVUlp)
 
 `Etapa 1:` Extração dos dados web no Twitter utilizando técnica de WebScraping executada na ferramenta Jupyter Notebook em computador On-Premises.
 
